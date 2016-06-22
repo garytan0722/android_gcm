@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1059331836522",
+    "project_id": "gcm-project-1346"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059331836522:android:a011d76026d0bc49",
+        "android_client_info": {
+          "package_name": "com.example.garytan.downloadimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059331836522-u156sjicej8sb5kat0udrlaqqnjhet3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.garytan.downloadimage",
+            "certificate_hash": "ED232AA8C5126D413F350CB5E7B3FBEE02AF76BE"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcauH65Q3uS0bpDULMXFcdjJCOTpmYwZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
